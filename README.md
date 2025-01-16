@@ -1,0 +1,2 @@
+# Data-Preprocessing-Pipeline-for-Food-and-Nutrition-Analysis
+This project preprocesses a food and nutrition dataset with 1,698 entries and 19 columns. It includes Label Encoding, Iterative Imputer for handling missing values, and removal of outliers . StandardScaler is applied for feature scaling, and PCA reduces dimensions. Tkinter GUI automates these tasks, making it accessible for non-programmers.
